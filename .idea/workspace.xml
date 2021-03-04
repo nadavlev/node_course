@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbd833a1-3787-4301-a0b5-439c0c0a6326" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web-server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/mongodb.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/mongodb.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,18 +90,34 @@
       <workItem from="1614604349890" duration="24084000" />
       <workItem from="1614771055945" duration="10970000" />
       <workItem from="1614848688248" duration="617000" />
-      <workItem from="1614861701033" duration="4582000" />
+      <workItem from="1614861701033" duration="8301000" />
     </task>
+    <task id="LOCAL-00001" summary="section 10 wip 1">
+      <created>1614866720677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614866720677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="section 10 wip 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 10 wip 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613470048456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1613470048456" />
+    <state x="585" y="1" key="CommitChangelistDialog2" timestamp="1614866716615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="1" key="CommitChangelistDialog2/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1614866716615" />
     <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1614771029686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -154,6 +170,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="426" key="VCS.ChangelistChooser/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1614848614872" />
+    <state x="552" y="234" key="Vcs.Push.Dialog.v2" timestamp="1614866725155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="234" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1614866725155" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613320422192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
