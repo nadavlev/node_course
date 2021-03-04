@@ -2,11 +2,13 @@ const path = require('path');
 const express = require('express');
 const hbs = require('hbs');
 const geoCode = require("./utils/geoCode");
-const forcast = require("../../weather-app/utils/forcast");
+const forcast = require("./utils/forcast");
+
 
 console.log(path.join(__dirname, '../public'))
 
 const app = express();
+const port = process.env.PORT || 3000;
 
 // static paths
 const pathToPublicDirectory = path.join(__dirname, '../public');
@@ -44,18 +46,21 @@ app.get('/weather', (req, res) => {
         if (error) {
             return res.send({error});
         }
-        forcast(lat, long, (err, {temperature:temp, feelsLike:feels} = {}) => {
+        forcast(lat, long, (err, {temperature:temp, feelsLike:feels, wind, windDirection, icon, description} = {}) => {
 
             if (err) {
                 return res.send({error: "Cant find forcast"});
             }
 
-            console.log(`${placeName} => It is currently ${temp}, Feels like ${feels}`);
             return res.send({
                 address: address,
                 forecast: temp,
                 feels: feels,
-                location: placeName
+                location: placeName,
+                wind,
+                windDirection,
+                icon,
+                description
             });
         })
     })
@@ -82,6 +87,6 @@ app.get('*', (req, res) => {
     res.render('404', {title: "404", name:"Nadav Lev", msg: "File not found - 404"});
 })
 
-app.listen(3000, () => {
-    console.log('listening on port 3000');
+app.listen(port, () => {
+    console.log(`listening on port ${port}`);
 })

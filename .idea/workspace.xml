@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbd833a1-3787-4301-a0b5-439c0c0a6326" name="Default Changelist" comment="" />
+    <list default="true" id="fbd833a1-3787-4301-a0b5-439c0c0a6326" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web-server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-server/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-server/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-server/src/utils/forcast.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/src/utils/forcast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-server/templates/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/templates/views/about.hbs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +24,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oSo2XbaIyCx6FTFt0KoEILUrhP" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -29,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.18.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="10.17.51" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-server/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-server" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -44,16 +58,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\research\node_course\web-server\src" />
-      <recent name="C:\dev\research\node_course\web-server\public\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\research\node_course\web-server\templates\views" />
       <recent name="C:\dev\research\node_course\playground" />
       <recent name="C:\dev\research\node_course\weather-app\utils" />
       <recent name="C:\dev\research\node_course" />
       <recent name="C:\dev\research\node_course\notes-app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\research\node_course\web-server" />
+      <recent name="C:\dev\research\node_course\web-server\src" />
+      <recent name="C:\dev\research\node_course\web-server\public\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -77,6 +92,7 @@
       <workItem from="1613919253557" duration="1827000" />
       <workItem from="1613922129859" duration="1761000" />
       <workItem from="1614604349890" duration="24084000" />
+      <workItem from="1614771055945" duration="9246000" />
     </task>
     <servers />
   </component>
