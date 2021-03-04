@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbd833a1-3787-4301-a0b5-439c0c0a6326" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/mongodb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package.json" afterDir="false" />
@@ -92,6 +94,7 @@
       <workItem from="1614604349890" duration="24084000" />
       <workItem from="1614771055945" duration="10970000" />
       <workItem from="1614848688248" duration="617000" />
+      <workItem from="1614861701033" duration="4236000" />
     </task>
     <servers />
   </component>
