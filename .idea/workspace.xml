@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbd833a1-3787-4301-a0b5-439c0c0a6326" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/playground/9-async-await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/src/db/mongoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/src/models/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/src/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/src/routers/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/src/routers/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-manager/mongodb.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/mongodb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +62,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\research\node_course\web-server\templates\views" />
-      <recent name="C:\dev\research\node_course\playground" />
-      <recent name="C:\dev\research\node_course\weather-app\utils" />
-      <recent name="C:\dev\research\node_course" />
-      <recent name="C:\dev\research\node_course\notes-app" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\research\node_course\web-server" />
       <recent name="C:\dev\research\node_course\web-server\src" />
       <recent name="C:\dev\research\node_course\web-server\public\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\research\node_course\task-manager\src\models" />
+      <recent name="C:\dev\research\node_course\web-server\templates\views" />
+      <recent name="C:\dev\research\node_course\playground" />
+      <recent name="C:\dev\research\node_course\weather-app\utils" />
+      <recent name="C:\dev\research\node_course" />
     </key>
   </component>
   <component name="RunManager">
@@ -90,7 +98,8 @@
       <workItem from="1614604349890" duration="24084000" />
       <workItem from="1614771055945" duration="10970000" />
       <workItem from="1614848688248" duration="617000" />
-      <workItem from="1614861701033" duration="8301000" />
+      <workItem from="1614861701033" duration="11770000" />
+      <workItem from="1615104825921" duration="16329000" />
     </task>
     <task id="LOCAL-00001" summary="section 10 wip 1">
       <created>1614866720677</created>
@@ -174,6 +183,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="234" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1614866725155" />
+    <state x="668" y="237" width="583" height="566" key="find.popup" timestamp="1614874455317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="237" width="583" height="566" key="find.popup/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1614874455317" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613320422192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
