@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbd833a1-3787-4301-a0b5-439c0c0a6326" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/playground/9-async-await.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/db/mongoose.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/models/task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/routers/task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/routers/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/models/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/routers/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/routers/task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/routers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/routers/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +97,7 @@
       <workItem from="1614848688248" duration="617000" />
       <workItem from="1614861701033" duration="11770000" />
       <workItem from="1615104825921" duration="16329000" />
+      <workItem from="1615297969704" duration="6543000" />
     </task>
     <task id="LOCAL-00001" summary="section 10 wip 1">
       <created>1614866720677</created>
@@ -187,10 +185,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="237" width="583" height="566" key="find.popup/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1614874455317" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613320422192">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615298614317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1613320422192" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1075.-2160.4096.2160@0.0.1920.1040" timestamp="1615298614317" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
